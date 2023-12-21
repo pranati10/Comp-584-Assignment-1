@@ -20,7 +20,8 @@ Data Handling: JSON for efficient backend data management and task information s
 
 # Demonstration:
 A video demonstration is included, showcasing the app's functionality and user experience. This visual guide provides a clear understanding of how users can interact with the application, highlighting its key features and usability.
-![ezgif-2-d91577c563](https://github.com/pranati10/Comp-584-Assignment-1/assets/88185279/e5bcf572-086c-43f6-bfc3-7517c68d3e88)
+
+![ezgif-2-1cbe56143b](https://github.com/pranati10/Comp-584-Assignment-1/assets/88185279/dc6763cc-376d-4a8f-b912-c55af0532531)
 
 # Repository Contents:
 
